@@ -240,7 +240,8 @@ END
 
 ### ✔ Flowchart
 
-![WorkshopKristyA-F8](WorkshopKristyA-F8.png) 
+![WorkshopKristyA-F8.1](WorkshopKristyA-F8.1.png) 
+
 
 ---
 
@@ -249,6 +250,26 @@ END
 Write the algorithm and draw the flowchart that input a number and
 calculate its factorial using a loop.
 
+### ✔ Pseudocode
+
+```
+START
+    INPUT number
+    SET FactorialResult = 1
+    SET counter = 1
+
+    WHILE counter <= number DO
+        factorialResult = factorialResult * counter
+        counter = counter + 1
+    END WHILE
+
+    PRINT factorialResult
+END
+``` 
+
+### ✔ Flowchart
+
+![WorkshopKristyA-F9](WorkshopKristyA-F9.png) 
 ---
 
 ## 10. Calculate Discount on Purchase
