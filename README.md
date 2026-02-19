@@ -195,6 +195,29 @@ END
 Create an algorithm and flowchart to input length and width, calculate
 the area (**Area = Length × Width**), and display the result.
 
+### ✔ Pseudocode
+
+```
+START
+    SET TotalTemp = 0
+    SET Counter = 1
+
+    WHILE Counter <= 7
+        INPUT Temp
+        TotalTemp = TotalTemp + Temp
+        Counter = Counter + 1
+    END WHILE
+
+    SET Average = TotalTemp / 7
+    DISPLAY "Average temperature is: ", Average
+END
+``` 
+
+### ✔ Flowchart
+
+![WorkshopKristyA-F7](WorkshopKristyA-F7.png) 
+
+
 ---
 
 ## 8. Determine Pass or Fail
