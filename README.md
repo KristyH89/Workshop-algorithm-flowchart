@@ -226,6 +226,22 @@ Write the algorithm and draw the flowchart for a program that takes a
 student's average marks and displays **"Pass"** if average ≥ 50,
 otherwise **"Fail"**.
 
+### ✔ Pseudocode
+
+```START
+    INPUT AverageMarks
+    IF AverageMarks >= 50 THEN
+        DISPLAY "Pass"
+    ELSE
+        DISPLAY "Fail"
+    END IF
+END
+```
+
+### ✔ Flowchart
+
+![WorkshopKristyA-F8](WorkshopKristyA-F8.png) 
+
 ---
 
 ## 9. Calculate Factorial of a Number
