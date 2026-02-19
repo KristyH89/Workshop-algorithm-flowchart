@@ -146,7 +146,7 @@ interest using the formula:
 ### ✔ Pseudocode
 
 ```
-BEGIN
+START
     INPUT P   // Principal
     INPUT R   // Rate of Interest (% per year)
     INPUT T   // Time (in years)
@@ -165,6 +165,28 @@ END
 
 Write the algorithm and draw the flowchart for a program that takes the
 temperature of 7 days, finds the average temperature, and displays it.
+
+### ✔ Pseudocode
+```
+START
+    SET TotalTemp = 0
+    SET Counter = 1
+
+    WHILE Counter <= 7
+        INPUT Temp
+        TotalTemp = TotalTemp + Temp
+        Counter = Counter + 1
+    END WHILE
+
+    SET Average = TotalTemp / 7
+    DISPLAY "Average temperature is: ", Average
+END
+```
+
+### ✔ Flowchart
+
+![WorkshopKristyA-F6](WorkshopKristyA-F6.png) 
+
 
 ---
 
