@@ -125,6 +125,9 @@ START
     END IF
 END
 ```
+
+### ✔ Flowchart
+
 ![WorkshopKristyA-F2](WorkshopKristyA-F4.png) 
 
 ---
@@ -139,6 +142,22 @@ interest using the formula:
 - **P = Principal** → original amount of money
 - **R = Rate of Interest** → percentage per year
 - **T = Time** → number of years
+
+### ✔ Pseudocode
+
+```
+BEGIN
+    INPUT P   // Principal
+    INPUT R   // Rate of Interest (% per year)
+    INPUT T   // Time (in years)
+    SET SI = (P * R * T) / 100
+    OUTPUT "Simple Interest is: ", SI
+END
+```
+
+### ✔ Flowchart
+
+![WorkshopKristyA-F5](WorkshopKristyA-F5.drawio.png) 
 
 ---
 
