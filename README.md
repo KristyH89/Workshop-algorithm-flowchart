@@ -68,6 +68,9 @@ both.
 Create an algorithm and flowchart that input a number and display its
 multiplication table from 1 to 10 using a loop.
 
+
+![WorkshopKristyA-F2](WorkshopKristyA-F3.png) 
+
 ---
 
 ## 4. Positive, Negative, or Zero Check
