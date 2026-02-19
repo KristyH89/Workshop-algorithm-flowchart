@@ -57,6 +57,10 @@ Write the algorithm and draw the flowchart for a program that inputs
 marks for 3 subjects, calculates the total and average, and displays
 both.
 
+
+![WorkshopKristyA-F2](WorkshopKristyA-F2.png)
+
+
 ---
 
 ## 3. Display Multiplication Table
