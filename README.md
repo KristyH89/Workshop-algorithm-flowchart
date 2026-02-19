@@ -57,7 +57,23 @@ Write the algorithm and draw the flowchart for a program that inputs
 marks for 3 subjects, calculates the total and average, and displays
 both.
 
+### ✔ Pseudocode
+``` 
+START
+INPUT mark1
+INPUT mark2
+INPUT mark3
+Total = mark1 + mark2 + mark3
+Average = total / 3
 
+DISPLAY total
+DISPLAY average
+
+END
+```
+
+
+### ✔ Flowchart
 ![WorkshopKristyA-F2](WorkshopKristyA-F2.png)
 
 
@@ -68,7 +84,24 @@ both.
 Create an algorithm and flowchart that input a number and display its
 multiplication table from 1 to 10 using a loop.
 
+### ✔ Pseudocode
 
+```START
+INPUT number
+
+SET Counter =1
+
+WHILE counter <= 10 DO
+    Result = number * counter
+    OUTPUT number + "x"= counter + "=" + result
+    counter = counter + 1
+END WHILE
+
+END
+```
+
+
+### ✔ Flowchart
 ![WorkshopKristyA-F2](WorkshopKristyA-F3.png) 
 
 ---
