@@ -200,17 +200,10 @@ the area (**Area = Length × Width**), and display the result.
 
 ```
 START
-    SET TotalTemp = 0
-    SET Counter = 1
-
-    WHILE Counter <= 7
-        INPUT Temp
-        TotalTemp = TotalTemp + Temp
-        Counter = Counter + 1
-    END WHILE
-
-    SET Average = TotalTemp / 7
-    DISPLAY "Average temperature is: ", Average
+    INPUT Length
+    INPUT Width
+    SET Area = Length * Width
+    DISPLAY "Area of the rectangle is: ", Area
 END
 ``` 
 
