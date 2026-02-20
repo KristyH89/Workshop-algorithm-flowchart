@@ -86,7 +86,8 @@ multiplication table from 1 to 10 using a loop.
 
 ### ✔ Pseudocode
 
-```START
+```
+START
 INPUT number
 
 SET Counter =1
@@ -147,9 +148,9 @@ interest using the formula:
 
 ```
 START
-    INPUT P   // Principal
-    INPUT R   // Rate of Interest (% per year)
-    INPUT T   // Time (in years)
+    INPUT P   
+    INPUT R   
+    INPUT T   
     SET SI = (P * R * T) / 100
     OUTPUT "Simple Interest is: ", SI
 END
